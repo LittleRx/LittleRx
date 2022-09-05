@@ -25,5 +25,10 @@
     <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardxzh&langs_count=7&theme=vue-dark&count_private=true&layout=compact"/>
   </div>
 </a>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/richardxzh/richardxzh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/richardxzh/richardxzh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/richardxzh/richardxzh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/richardxzh/richardxzh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+</div>
