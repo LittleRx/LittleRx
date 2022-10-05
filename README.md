@@ -16,15 +16,6 @@
   <hr />
 </div>
 
-<a href="https://github.com/richardxzh">
-  <div>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=richardxzh&show_icons=true&theme=vue-dark&count_private=true"/>
-  </div>
-  
-  <div align="center">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardxzh&langs_count=7&theme=vue-dark&count_private=true&layout=compact"/>
-  </div>
-</a>
 <div align="center">
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/richardxzh/richardxzh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
